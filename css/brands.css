@@ -1,0 +1,80 @@
+.a{
+       background-color: #0000009c;
+	}
+
+	
+	.banner-content{
+		line-height: 35px;
+             
+	}
+	
+	.border-box{
+	border-style: solid;
+    border-width: thin;
+    border-color: #fbab29;
+	}
+
+	.img{
+      background-image: url(https://www.firstfiddle.in/assets/images/brands.jpg);
+    	background-size: cover;
+    	width: 100%;
+    	height: 620px;
+	}
+
+	.mt-10{
+    	margin-top: 295px;
+    	font-family: prague;
+        color: #fff;
+        font-size: 80px;
+        font-weight:bold;
+        margin-left: -15px;
+        
+    }
+    .brands-logos{
+        padding: 5%;
+    }
+
+    .mainfooter{
+      background: #020306f0;
+        padding: 50px;
+        color: #fff;
+    }
+    .F1{
+      font-family: 'prague';
+        font-size: 45px;
+        line-height: 50px;
+        letter-spacing: 3px;
+        color: #fff;
+
+    }
+    
+    .y{
+    color: #fcb21b;
+        }
+
+  .foot-add{
+    padding: 15px;
+  }
+      
+      .icon{
+
+        width: 40px;
+        color: #fcb21b;
+        font-size: 2em;
+
+      }
+
+      .policy{
+        background-color: #000;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+
+      .b{
+         font-size: 13px;
+         color: white;
+         margin-top: 0px;
+         margin-bottom: 0rem;
+      }
+
+    

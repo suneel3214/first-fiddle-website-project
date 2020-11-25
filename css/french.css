@@ -1,0 +1,127 @@
+.a{
+    background-color: #0000009c;
+	}
+
+.border-box{
+    border-style: solid;
+    border-width: thin;
+    border-color: #fbab29;
+  }
+
+	#mybutton{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 9;
+    }
+
+    .feedback{
+    background-color: #fbaa29;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 50px;
+    border-color: #fbaa29;
+    }
+
+   .img{
+        background-image: url(https://www.firstfiddle.in/assets/images/contact-new.jpg);
+      background-size: cover;
+      width: 100%;
+      height: 670px;
+  }
+
+  .mt-10{
+      margin-top: 315px;
+      font-family: prague;
+        color: #fff;
+        font-size: 40px;
+        letter-spacing: 4px;
+        word-spacing: 10px;
+        
+   }
+
+  .mt-11{
+        font-family: prague;
+        color:#fbaa1a;
+        font-size: 28px;
+        letter-spacing: 4px;
+        
+   }
+
+   .modal-content{
+    border: 3px solid #fbb029;
+    border-radius: 1rem;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;
+    background: #fbb029;
+    padding: 10px;
+    margin-top: 110px;
+   }
+
+   .modal-header{
+    display: block;
+   }
+
+   .form-line{
+    line-height: 15px;
+    font-size: 11px!important;
+    padding: 5px;
+    letter-spacing: 1px;
+    font-family: Montserrat,sans-serif!important;
+   }
+
+   .button{
+    background-color: #926618;
+    width: 150px;
+    font-size: 15px;
+    color: #ffffff;
+   }
+   .b{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+   }
+   .c{
+    font-family: Merriweather,serif;
+    font-size: 39px;
+    line-height: 50px;
+    letter-spacing: 3px;
+   }
+   .ml-1{
+     padding-top: 50px;
+       text-transform: uppercase;
+       font-family: prague;
+       margin-bottom: .5rem;
+       font-weight:bolder;
+       line-height: 1.2;
+       font-size: 45px;
+       
+     }
+       .banner-content{
+    font-size: 15px;
+    line-height: 26px;
+    word-spacing: 3px;          
+  }
+
+.d{
+    font-size: 15px;
+    line-height: 26px;
+    word-spacing: 3px;
+    background-color: #fbac29;
+    font-size: small;
+    border-radius: 10px;
+}
+
+  .img1{
+      box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      width: 100%;
+      height: 450px;
+      
+  }
+
+  .e{
+    width: 100%;
+    height: 370px;
+  }
+
+  
